@@ -2,6 +2,8 @@
 
 AI-powered stock analysis and portfolio tracking platform for the Indonesia Stock Exchange (IDX) and global markets.
 
+![Application Screenshot](screenshot.jpg)
+
 ## Overview
 
 Invelio integrates real-time market data, local LLM-driven financial insights, and portfolio management into a unified system. The platform consists of a native iOS client built with SwiftUI and a Python FastAPI backend powered by local LLMs via Ollama and retrieval-augmented generation (RAG) via ChromaDB.
